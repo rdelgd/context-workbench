@@ -1,0 +1,10 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Local environment configuration and credentials
+.env
+.env.*
+!.env.example
+.databrickscfg
